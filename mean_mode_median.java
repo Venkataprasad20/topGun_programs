@@ -10,7 +10,7 @@ public class mean_mode_median
 		}
 		HashMap<Integer,Integer>hm=new HashMap<>();
 		int sum=0;
-		int average=0;
+
 		int mode=0;
 		int max=0;
 		for(int i=0;i<n;i++){
@@ -31,5 +31,6 @@ public class mean_mode_median
 		    }
 		}
 		System.out.println("mode = "+mode);
+		sc.close();
     }
 }

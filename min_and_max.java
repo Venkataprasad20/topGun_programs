@@ -18,5 +18,6 @@ public class min_and_max{
 		    }
 		}
 		System.out.println(max+" "+min);
+		sc.close();
 	}
 }

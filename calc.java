@@ -9,6 +9,7 @@ public class calc
 		System.out.println("subtraction is :"+sub(a,b));
         System.out.println("multiplication is :"+mul(a,b));
         System.out.println("division is :"+div(a,b));
+		sc.close();
 	}
 	public static int sum(int a,int b) {
 		return a+b;

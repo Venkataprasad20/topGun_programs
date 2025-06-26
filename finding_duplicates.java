@@ -18,5 +18,6 @@ public class finding_duplicates
 		    hs.add(arr[i]);
 		}
         System.out.println(al);
+		sc.close();
     }
 }

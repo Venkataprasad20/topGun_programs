@@ -20,5 +20,6 @@ public class array_is_sorted_or_not
 		else{
 		    System.out.println(false);
 		}
+		sc.close();
     }
 }

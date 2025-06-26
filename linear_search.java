@@ -21,5 +21,6 @@ public class linear_search
 		else{
 		    System.out.println("target not found");
 	    }
+		sc.close();
 	}
 }

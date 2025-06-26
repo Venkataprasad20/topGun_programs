@@ -21,5 +21,6 @@ public class even_odd_count
 		}
 		System.out.println("even count = "+even);
 		System.out.println("odd count = "+odd);
+		sc.close();
     }
 }

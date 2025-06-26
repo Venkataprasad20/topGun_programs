@@ -17,5 +17,6 @@ public class reverse
 		    j--;
 		}
 		System.out.println(Arrays.toString(arr));
+		sc.close();
 	}
 }
